@@ -1,5 +1,4 @@
 # Scholarships-for-minorities
-# Minority Scholarship Finder
 
 ## Overview
 This project is a Java console program that helps students find scholarships based on their background and GPA. The program asks the user for some basic information and then suggests scholarships they might qualify for.
