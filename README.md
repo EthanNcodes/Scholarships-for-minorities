@@ -104,7 +104,3 @@ This project demonstrates:
 - **Console-based application design**
 
 ---
-
-## 👨‍💻 Author
-
-**Ethan Nguyen**
