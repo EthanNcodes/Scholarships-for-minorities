@@ -22,8 +22,8 @@ After the information is entered, the program displays the user's information an
 The program determines scholarship availability based on GPA:
 
 - **Below 2.50** – No scholarships available
-- **2.50 – 3.20** – Two scholarships available
-- **Above 3.20** – Three scholarships available
+- **2.50 – 3.20** – Four scholarships available
+- **Above 3.20** – Eight scholarships available
 
 ## Programming Concepts Used
 This project demonstrates several core Java concepts:
