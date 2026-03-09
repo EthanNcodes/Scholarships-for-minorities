@@ -11,6 +11,7 @@ When the program starts, the user is shown a main menu. They can choose to conti
 
 If they continue, the program will ask for:
 - Their name
+- The School they attended
 - The minority group they identify with
 - Whether they are in-state or out-of-state
 - The school they attend
